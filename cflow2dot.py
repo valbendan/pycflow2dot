@@ -7,7 +7,7 @@ import sys
 global cflow
 global dot
 cflow = '/usr/bin/cflow'
-dot      = '/usr/bin/dot'
+dot   = '/usr/bin/dot'
 
 if os.path.isfile(cflow):
 	pass
