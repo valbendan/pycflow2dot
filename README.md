@@ -1,6 +1,8 @@
 pycflow2dot
 ===========
 
+Tested on Python 3.3.
+
 This software is under GPL v3 licenses!
 This software is a porting for cflow2dot whitch is written in perl language.
 
